@@ -8,7 +8,7 @@ Ubuntu OS, with CUDA installed to run the CUDA version.
 Copyright 2016 Guiming Zhang. Distributed under GNU General Public License (GPL) license.
 
 # Citation
-Guiming Zhang, A-Xing Zhu & Qunying Huang (2017) A GPU-accelerated adaptive kernel density estimation approach for efficient point pattern analysis on spatial big data, International Journal of Geographical Information Science. DOI: 10.1080/13658816.2017.1324975 [Full text: http://www.tandfonline.com/eprint/SqqNR3VESnYZScgyzs8F/full]
+Guiming Zhang, A-Xing Zhu & Qunying Huang (2017) A GPU-accelerated adaptive kernel density estimation approach for efficient point pattern analysis on spatial big data, International Journal of Geographical Information Science,31(10): 2068-2097. DOI: 10.1080/13658816.2017.1324975 [Full text: http://www.tandfonline.com/eprint/SqqNR3VESnYZScgyzs8F/full]
 
 # Contact
 Guiming Zhang (gzhang45@wisc.edu)
